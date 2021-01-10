@@ -1,6 +1,6 @@
 ![Image Not Found](src/images/phaes-logo2.png)
 
-**Techinal Challenge**
+**Technical Challenge**
 
 Requirements:
 * Create react app from provided boiler plate 
