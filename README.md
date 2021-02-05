@@ -11,3 +11,5 @@ Requirements:
 Bonus:
 * Good design and layout
 * Interesting or cool way to show posts (Carousel, Cards, etc.)
+
+API: https://jsonplaceholder.typicode.com/posts
